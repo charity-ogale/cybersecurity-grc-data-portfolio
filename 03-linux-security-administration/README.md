@@ -27,3 +27,4 @@ Screenshots and relevant command outputs will be added here.
 - User and group administration
 - File permissions
 - Bash scripting
+[View Kali Linux Command-Line Evidence](screenshots/Kali-command-line-evidence.pdf)
