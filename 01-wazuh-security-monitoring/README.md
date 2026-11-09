@@ -35,3 +35,4 @@ Screenshots of the Wazuh Dashboard, connected agents, security alerts and SCA re
 ## Project Scope
 
 This was a controlled learning lab conducted for educational and cybersecurity skill-development purposes.
+[View Wazuh Security Monitoring Evidence](screenshots/Wazur-Project-Evidence.pdf)
