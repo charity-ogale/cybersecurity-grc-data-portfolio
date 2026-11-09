@@ -75,3 +75,4 @@ Practical screenshots and supporting documentation will be provided in the scree
 
 ## Scope and Disclaimer
 This exercise was conducted against an intentionally vulnerable target in a controlled lab environment for educational purposes. No unauthorised systems were targeted.
+[View Metasploit Penetration Testing Evidence](screenshots/Metasploit-Penetration-Testing-Evidence.pdf)
